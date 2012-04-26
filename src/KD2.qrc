@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/select_pointer.png</file>
+        <file>resources/start_page.png</file>
+        <file>resources/activities-page.png</file>
+        <file>resources/green-dot.png</file>
+        <file>resources/red-dot.png</file>
+        <file>resources/yellow-dot.png</file>
+        <file>resources/kmeans_page.png</file>
+        <file>resources/mpi_page.png</file>
+        <file>resources/pca_page.png</file>
+        <file>resources/som_page.png</file>
+        <file>resources/csv_dataset.png</file>
+    </qresource>
+</RCC>
