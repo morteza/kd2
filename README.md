@@ -1,4 +1,4 @@
-## Big Data Knowledge Discovery
+## Scalable Knowledge Discovery
 
 Five scalable and distributed clustering and classification algorithms for knowledge discovery in large datasets.
 
