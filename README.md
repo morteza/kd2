@@ -1,7 +1,5 @@
-based on Qt framework and MPI.
+## Big Data Knowledge Discovery
+
+Five scalable and distributed clustering and classification algorithms for knowledge discovery in large datasets.
 
 Last update: **November 26, 2010**
-
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/morteza/kd2/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
-
